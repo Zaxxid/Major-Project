@@ -1,11 +1,3 @@
-pip install tweepy
-pip install transformers
-pip install streamlit
-pip install pandas
-
-
-
-
 import tweepy as tw
 import streamlit as st
 import pandas as pd
