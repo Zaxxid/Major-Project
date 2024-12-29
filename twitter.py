@@ -1,7 +1,7 @@
-!pip install tweepy
-!pip install transformers
-!pip install streamlit
-!pip install pandas
+pip install tweepy
+pip install transformers
+pip install streamlit
+pip install pandas
 
 
 
